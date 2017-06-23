@@ -9,7 +9,7 @@ If you've noticed a bug or have a question that doesn't belong on the
 to see if someone else in the community has already created a ticket regarding your issue.
 If not, feel free to go ahead and [make one](https://github.com/dvbern/<library-name>/issues/new)!
 
-#### 2. Did you find a bug?
+### 2. Did you find a bug?
 
 * **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/dvbern/<library-name>/issues).
 
@@ -36,6 +36,7 @@ git checkout -b 325-add-mynewchanges123
 Since we're trying to keep the code structured, readable and standardised, please check out and implement our Code Styles & Inspections if you are using IntelliJ IDEA.
 
 [Code Styles](https://git.dvbern.dvb.ch/raw/dvbern/lib/codestyle.git/master/src!IDE-settings!IntelliJ!DVBern-Conventions-2017-05-29.xml)(Add Scheme under Project Settings > Editor > Code Style)
+
 [Inspections](https://git.dvbern.dvb.ch/raw/dvbern/lib/codestyle.git/master/src!IDE-settings!IntelliJ!DVBern_Inspections_2017_05_19.xml)(Add Profile under Project Settings > Editor > Inspections)
 
 ### 5. Make a Pull Request
