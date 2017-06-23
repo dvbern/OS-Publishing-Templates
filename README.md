@@ -40,7 +40,7 @@ Please read [Contributing.md](CONTRIBUTING.md) for the process for submitting pu
 
 ## Code of Conduct
 
-One healthy social atmospehere is very important to us, wherefore we rate our Code of Conduct high. For details check the file [CodeOfConduct.md](CODEOFCONDUCT.md)
+One healthy social atmospehere is very important to us, wherefore we rate our Code of Conduct high. For details check the file [CodeOfConduct.md](CODE_OF_CONDUCT.md)
 
 ## Authors
 
