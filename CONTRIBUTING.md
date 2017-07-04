@@ -31,7 +31,12 @@ A good branch name would be (where issue #325 is the ticket you're working on):
 git checkout -b 325-add-mynewchanges123
 ```
 
-### 4. Code Styles, Guildlines & Inspections
+### 4. Code of Conduct
+
+By beeing part of our development team and community, please abide the rules in our [Code of Conduct](CODE_OF_CONDUCT.md)! 
+Further information on how to report inapropriate behaviour by others, check the Enforcements-Section in said Code Of Conduct. Thank you for beeing a nice person!
+
+### 5. Code Styles, Guildlines & Inspections
 
 Since we're trying to keep the code structured, readable and standardised, please check out and implement our Code Styles & Inspections if you are using IntelliJ IDEA.
 
@@ -39,7 +44,7 @@ Since we're trying to keep the code structured, readable and standardised, pleas
 
 [Inspections](https://git.dvbern.dvb.ch/raw/dvbern/lib/codestyle.git/master/src!IDE-settings!IntelliJ!DVBern_Inspections_2017_05_19.xml)(Add Profile under Project Settings > Editor > Inspections)
 
-### 5. Make a Pull Request
+### 6. Make a Pull Request
 
 At this point, you should switch back to your master branch and make sure it's
 up to date with the master branch:
@@ -62,7 +67,7 @@ Finally, go to GitHub and
 [make a Pull Request](https://help.github.com/articles/creating-a-pull-request)
 
 
-### 6. Keeping your Pull Request updated
+### 7. Keeping your Pull Request updated
 
 If a maintainer asks you to "rebase" your PR, they're saying that a lot of code
 has changed, and that you need to update your branch so it's easier to merge.
@@ -78,7 +83,7 @@ git pull --rebase upstream master
 git push --force-with-lease 325-add-mynewchanges123
 ```
 
-### 7. Merging a Pull Request (maintainers only)
+### 8. Merging a Pull Request (maintainers only)
 
 A Pull Reques can only be merged into master by a maintainer if:
 
