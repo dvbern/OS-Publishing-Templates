@@ -46,7 +46,7 @@ One healthy social atmospehere is very important to us, wherefore we rate our Co
 
 * **DV Bern AG** - *Initial work* - [dvbern](https://github.com/dvbern)
 
-See also the list of [contributors](https://github.com/dvbern/OS-Publishing-Templates/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/dvbern/<library-name>/contributors) who participated in this project.
 
 ## License
 
