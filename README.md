@@ -1,33 +1,22 @@
-# Project Title
+# (Project Title)
 
-Project Description
+(Short explanation about the library and its usage)
 
 ## Getting Started
 
-These instructions will get you an overview on how to implement and use the dvbern-lib-<> library. See further down for installing or deployment notes.
+### Installation
 
-### Prerequisites
+* Checkout the repository
+* run `mvn clean install`
+* add the following dependency to your project
 
-<What things you need to install the software and how to install them>
-
+```xml
+<dependency>
+	<groupId>ch.dvbern.oss.(lib-short-name)</groupId>
+	<artifactId>(lib-name)</artifactId>
+	<version>(NEWEST_VERSION)</version>
+</dependency>
 ```
-<example>
-```
-
-### Installing
-
-<A step by step series of examples to get a development env running>
-
-<This step does this>
-
-```
-<example>
-```
-
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
@@ -36,19 +25,21 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing Guidelines
 
-Please read [Contributing.md](CONTRIBUTING.md) for the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the process for submitting pull requests to us.
 
 ## Code of Conduct
 
-One healthy social atmospehere is very important to us, wherefore we rate our Code of Conduct high. For details check the file [CodeOfConduct.md](CODE_OF_CONDUCT.md)
+One healthy social atmospehere is very important to us, wherefore we rate our Code of Conduct high.
+ For details check the file [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 
 ## Authors
 
 * **DV Bern AG** - *Initial work* - [dvbern](https://github.com/dvbern)
 
-See also the list of [contributors](https://github.com/dvbern/<library-name>/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/dvbern/(RepoName)/contributors)
+ who participated in this project.
 
 ## License
 
-This project is licensed under the Apache 2.0 License - see the [License.md](LICENSE.md) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details.
 

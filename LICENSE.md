@@ -71,7 +71,6 @@ While redistributing the Work or Derivative Works thereof, You may choose to off
 
 END OF TERMS AND CONDITIONS
 
-
 APPENDIX: How to apply the Apache License to your work.
 
 To apply the Apache License to your work, attach the following
